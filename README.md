@@ -5,4 +5,6 @@ networks I'm creating, but it does not mean you can't play it!
 
 Buble Bar: A bar game based in Hatary Colision
 
+Snake: A basic Snake Game 
+
 Let's play, boys!
